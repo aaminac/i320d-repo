@@ -1,1 +1,1 @@
-# i320d-repo
+# i320d-solo-repo
